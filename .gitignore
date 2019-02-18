@@ -1,0 +1,8 @@
+.idea/
+dist/*
+target/
+.cache
+.lib/
+
+*.class
+*.log
